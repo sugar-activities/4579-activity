@@ -1,0 +1,8 @@
+[Activity]
+name = Spray Play
+activity_version = 3
+bundle_id = net.coderanger.olpc.SprayPlayActivity
+icon = activity
+exec = sugar-activity activity.SprayPlay
+license = GPLv3
+summary = The old SprayPlay activity
